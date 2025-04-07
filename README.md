@@ -1,9 +1,12 @@
 # PHP-CRUD-API  
 
 ![Programming Language](https://img.shields.io/badge/PHP-lavender?style=flat&logo=php&logoColor=white)
-![Database](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white) ![Framework](https://img.shields.io/badge/PDO-gray?style=flat&logo=php&logoColor=white)  
+
+![Database](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white) ![Framework](https://img.shields.io/badge/PDO-gray?style=flat&logo=php&logoColor=white) 
+
 ![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/php-crud-api?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/php-crud-api?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/php-crud-api?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/php-crud-api?color=yellow&logo=github) 
 
 ---
 
